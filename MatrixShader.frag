@@ -16,7 +16,6 @@ const vec3 backCol = vec3(0.005,0.005,0.005);
 // Static controls
 const bool showStatic = true;
 const float staticStrength = -0.716;
-const vec3 baseCol = vec3(0.000,0.145,0.007);
 
 // text colour
 const bool varyTextCol = true;
